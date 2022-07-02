@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opaleone
 - 👀 I’m interested in Software Engineering and helping people through code.
-- 🌱 I’m currently learning Python as my first language.
+- 🌱 I’m currently learning Python and HTML CSS and designing my portfolio.
 
 
 <!---
