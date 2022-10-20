@@ -14,11 +14,13 @@ I am currently attending a Full Stack Web development bootcamp offered by Univer
 But most importantly,
 
     Learning how to Learn
+
+---
     
     
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=opaleone&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OpaLeone&theme=monokai&hide_border=true&border_radius=10)](https://git.io/streak-stats)
     
 
 
