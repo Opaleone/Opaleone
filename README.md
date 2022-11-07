@@ -2,18 +2,31 @@
 - 👀 I’m interested in Software Engineering and helping people through code.
 - 🌱 I’m currently learning HTML CSS JavaScript, Python and designing my portfolio.
 
-I am currently attending a Full Stack Web development bootcamp offered by University of Texas - Austin. By the end, I will have an understanding of
+I am currently attending a Full Stack Web development bootcamp offered by University of Texas - Austin. I am confident with:
     
     HTML
     CSS
     JavaScript
-    React.js
-    SQL
-    APIs, both Server side and Third-party
+    API's
+    Node.js
+    Express.js
+    MySQL
+    Python
+    
+Languages on my bucket list to learn:
 
-But most importantly,
+    Swift
+    C++
+    Java
+    
+    
+Please, take a look around. Make yourself comfortable :)
 
-    Learning how to Learn
+If you have any questions for me, some ways to contact me:
+
+lvarando@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/leone-varando-3648a8204/)
 
 ---
     
