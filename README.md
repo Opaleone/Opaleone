@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leone Varando
 - 👀 I’m interested in Software Engineering and helping people through code.
-- 🌱 I’m currently learning HTML CSS JavaScript, Python and designing my portfolio.
+- 🌱 I’m currently learning MySql and moving to ReactJS soon.
 
 I am currently attending a Full Stack Web development bootcamp offered by University of Texas - Austin. I am confident with:
     
