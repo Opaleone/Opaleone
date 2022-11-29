@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leone Varando
 - 👀 I’m interested in Software Engineering and helping people through code.
-- 🌱 I’m currently learning MongoDb and moving to ReactJS soon.
+- 🌱 I’m currently learning React and moving to Full MERN stack soon.
 
 I am currently attending a Full Stack Web development bootcamp offered by University of Texas - Austin. I am confident with:
     
