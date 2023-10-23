@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Leone Varando
-- 👀 I’m interested in Software Engineering and helping people through code.
-- 🌱 I’m currently learning React and moving to Full MERN stack soon.
+Yo! Leone here.
+Currently busy making cool things with cool people.
 
-I am currently attending a Full Stack Web development bootcamp offered by University of Texas - Austin. I am confident with:
+I am confident with:
     
     HTML
     CSS
@@ -12,12 +11,13 @@ I am currently attending a Full Stack Web development bootcamp offered by Univer
     Express.js
     MySQL
     Python
-    
-Languages on my bucket list to learn:
-
     Swift
     C++
+    
+Things I want to learn:
+
     Java
+    Rust
     
     
 Please, take a look around. Make yourself comfortable :)
