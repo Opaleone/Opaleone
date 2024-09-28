@@ -1,23 +1,5 @@
 Yo! Leone here.
 Currently busy making cool things with cool people.
-
-I am confident with:
-    
-    HTML
-    CSS
-    JavaScript
-    API's
-    Node.js
-    Express.js
-    MySQL
-    Python
-    Swift
-    C++
-    
-Things I want to learn:
-
-    Java
-    Rust
     
     
 Please, take a look around. Make yourself comfortable :)
